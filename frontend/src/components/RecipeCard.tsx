@@ -31,3 +31,4 @@ const RecipeCard = ({recipe, onClick, onFavouriteButtonClick, isFavourite}:Props
 }
 
 export default RecipeCard;
+

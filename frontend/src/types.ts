@@ -1,4 +1,5 @@
 export interface Recipe {
+    link: string | undefined;
     id: number;
     title: string;
     image: string;
