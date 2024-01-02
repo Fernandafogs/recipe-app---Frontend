@@ -60,3 +60,4 @@ export const getFavouriteRecipesByIDs =async (ids:string[]) => {
     const json = await searchResponse.json();
     return { results: json };
 }
+
